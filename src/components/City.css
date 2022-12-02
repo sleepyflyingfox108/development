@@ -1,0 +1,21 @@
+#city {
+    background-color: rgb(210, 210, 255);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px;
+    width: 20vw;
+    margin: 2vh;
+}
+
+img {
+    width: 90%;
+}
+
+#info {
+    margin-bottom: 2vh;
+}
+
+Button {
+    margin-bottom: 2vh;
+}
